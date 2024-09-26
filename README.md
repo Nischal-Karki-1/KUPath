@@ -1,5 +1,6 @@
 
 # 🚀 KUPath: Shortest Paths in Kathmandu University
+## What is the project about?
 This project demonstrates key concepts of graph theory through an interactive web application. It allows users to explore paths, find minimum spanning trees, search for nodes, and calculate the shortest path between nodes (e.g., the Library, Football Field, Departmental Blocks, Canteen, etc.) within Kathmandu University. The application serves as a practical tool for visualizing and interacting with various graph algorithms in a real-world environment.
 
 
