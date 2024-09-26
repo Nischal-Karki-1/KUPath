@@ -59,17 +59,17 @@ npm start
     <img src="https://github.com/user-attachments/assets/7d0c6d6f-089c-4ca8-abed-45577ffad3a4" alt="All Collected Paths" width="600">
 </div>
 
-### Searching a Node
+- ### Searching a Node
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9fbbad0f-86e6-470a-9fee-0ba75ec3f046" alt="Searching a Node" width="600">
 </div>
 
-### Showing Shortest Path
+- ### Showing Shortest Path
 <div align="center">
     <img src="https://github.com/user-attachments/assets/50e7369c-3e60-494a-a890-e1f517d10f0e" alt="Shortest Path" width="600">
 </div>
 
-### Showing Minimum Spanning Tree
+- ### Showing Minimum Spanning Tree
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9d4fb1c6-a9ee-4501-b327-1d0be3fe4af3" alt="Minimum Spanning Tree" width="600">
 </div>
